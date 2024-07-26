@@ -20,12 +20,19 @@ This program will not work properly if you:
 In order to avoid excess typing and headaches, I suggest you use numbers 
 instead of typing out days of the week:
 1 - Monday
+
 2 - Tuesday
+
 3 - Wednesday
+
 4 - Thursday
+
 5 - Friday
+
 6 - Saturday
+
 7 - Sunday
+
 
 Additionally, there is NO undo button for the program - if you do something
 wrong and press enter, please restart the program and do it all over again!
